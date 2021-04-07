@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/alainaf/practice/adventure/src/main/scala/BadTextAdventure.scala:37:19: not found: value readLine[0m
+[0m[[0m[31merror[0m] [0m[0m            dir = readLine().toUpperCase().charAt(0).toString()[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/alainaf/practice/adventure/src/main/scala/BadTextAdventure.scala:43:20: not found: value readLine[0m
+[0m[[0m[31merror[0m] [0m[0m        val open = readLine().toUpperCase().charAt(0).toString()[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
